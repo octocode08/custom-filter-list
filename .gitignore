@@ -1,0 +1,12 @@
+# Ignore OS/system files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary backups
+*.bak
+*.swp
+*.tmp
+
+# Node modules or Python cache (if ever used)
+node_modules/
+__pycache__/
